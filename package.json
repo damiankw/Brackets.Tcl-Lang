@@ -1,0 +1,13 @@
+{
+    "name": "Brackets.Tcl-Lang",
+    "title": "Tcl Language Support",
+    "description": "Adds support for Tcl language to Brackets.",
+    "homepage": "https://github.com/damiankw/Brackets.Tcl-Lang",
+    "version": "1.0.0",
+    "author": "Damian West <damian@damian.id.au>",
+    "license": "",
+    "keywords": [ "tcl", "syntax", "highlighting", "highlight", "code", "eggdrop" ],
+    "engines": {
+        "brackets": ">=0.24.0"
+    }
+}
