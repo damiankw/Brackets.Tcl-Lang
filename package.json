@@ -1,5 +1,5 @@
 {
-    "name": "Brackets.Tcl-Lang",
+    "name": "brackets.tcl-lang",
     "title": "Tcl Language Support",
     "description": "Adds support for Tcl language to Brackets.",
     "homepage": "https://github.com/damiankw/Brackets.Tcl-Lang",
