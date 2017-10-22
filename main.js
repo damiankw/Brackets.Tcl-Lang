@@ -6,7 +6,7 @@ define(function (require, exports, module) {
 
     var LanguageManager = brackets.getModule("language/LanguageManager");
 
-    LanguageManager.defineLanguage("swift", {
+    LanguageManager.defineLanguage("tcl", {
         name: "Tcl",
         mode: "tcl",
         fileExtensions: ["tcl", "etcl"],
