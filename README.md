@@ -1,6 +1,6 @@
 # Brackets.Tcl-Lang
 
-_Version: 1.0.0
+_Version: 1.0.0_
 
 ### About
 A very simple extension for [Brackets](http://brackets.io/) to allow Tcl syntax highlighting.
